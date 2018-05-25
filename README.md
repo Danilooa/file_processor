@@ -1,3 +1,7 @@
+## The only implemented requirement was this one:
+
+_This application runs all the time, without any breaks. Everytime new files become available, everything should be executed._
+
 # file_processor
 
 This is a data analysis able to import lots of flat files, read and analyse the data, and output a report.
